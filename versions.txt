@@ -1,4 +1,4 @@
-python 3.12.7
+python 3.12.3 // 3.12.7
 pytorch 2.5.1 stable
 anaconda distribution - 2024.10
 
@@ -8,3 +8,4 @@ conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvi
 
 # install cpu support only
 conda install pytorch torchvision torchaudio cpuonly -c pytorch
+
