@@ -1,3 +1,2 @@
-!.gitignore
 anaconda_projects/
-dataset/fashion-mnist_train.csv
+# dataset/fashion-mnist_train.csv # added to git lfs
