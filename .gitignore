@@ -1,7 +1,3 @@
-.*
 !.gitignore
-
-anaconda_projects
-
-a.py
-
+anaconda_projects/
+dataset/fashion-mnist_train.csv

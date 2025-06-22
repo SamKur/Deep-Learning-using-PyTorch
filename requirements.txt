@@ -1,0 +1,11 @@
+torch 
+# python version >= 3.8
+torchvision 
+torchaudio
+torchinfo
+numpy
+pandas
+scikit-learn
+optuna
+mlflow
+pillow
